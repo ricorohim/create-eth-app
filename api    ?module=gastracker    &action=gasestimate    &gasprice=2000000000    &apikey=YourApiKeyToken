@@ -1,0 +1,5 @@
+https://api.etherscan.io/api
+   ?module=gastracker
+   &action=gasestimate
+   &gasprice=2000000000
+   &apikey=YourApiKeyToken
